@@ -1,6 +1,5 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟧 Partial outage**
-
-This repository contains the open-source uptime monitor and status page for [Fred](https://demo.upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
+<!--live status-->
+This repository contains the open-source uptime monitor and status page powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/choudat/status-connethics/workflows/Uptime%20CI/badge.svg)](https://github.com/choudat/status-connethics/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/choudat/status-connethics/workflows/Response%20Time%20CI/badge.svg)](https://github.com/choudat/status-connethics/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -29,3 +28,4 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
 - Code: [MIT](./LICENSE) © [Fred](https://demo.upptime.js.org)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
+- Edit with love by frederic@choudat.fr
