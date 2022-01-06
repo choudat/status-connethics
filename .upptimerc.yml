@@ -2,7 +2,7 @@ owner: choudat
 repo: status-connethics
 
 sites:
-  - name: ConnEthics
+  - name: connethics
     url: http://connethics.fr/
   - name: Hacker News
     url: https://news.ycombinator.com
@@ -20,13 +20,13 @@ status-website:
    - name: "robots"
      content: "noindex"
 
-  name: ConnEcthics
+  name: connethics
   introTitle: "ConnEthics status pages"
   introMessage: This is a status page which is proudly power by upptime. No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: https://github.com/$OWNER/$REPO
-    - title: Connecthics
+    - title: connethics
       href: http://connethics.fr/
     - title: Contact me on Linkedin
       href: https://www.linkedin.com/in/fredericchoudat/
