@@ -1,8 +1,8 @@
 [
   {
     "name": "connethics",
-    "url": "http://connethics.fr/",
-    "icon": "https://favicons.githubusercontent.com/connethics.fr",
+    "url": "http://connethics.com/",
+    "icon": "https://favicons.githubusercontent.com/connethics.com",
     "slug": "connethics",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2004,
-    "timeDay": 2585,
-    "timeWeek": 2244,
-    "timeMonth": 1908,
-    "timeYear": 2004,
+    "time": 1986,
+    "timeDay": 1772,
+    "timeWeek": 2084,
+    "timeMonth": 1874,
+    "timeYear": 1986,
     "dailyMinutesDown": {}
   }
 ]
