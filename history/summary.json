@@ -4,18 +4,19 @@
     "url": "http://connethics.com/",
     "icon": "https://favicons.githubusercontent.com/connethics.com",
     "slug": "connethics",
-    "status": "up",
-    "uptime": "94.69%",
+    "status": "down",
+    "uptime": "94.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.54%",
-    "uptimeMonth": "91.22%",
-    "uptimeYear": "94.69%",
+    "uptimeMonth": "91.25%",
+    "uptimeYear": "94.75%",
     "time": 1271,
     "timeDay": 1299,
     "timeWeek": 1405,
-    "timeMonth": 1161,
+    "timeMonth": 1152,
     "timeYear": 1271,
     "dailyMinutesDown": {
+      "2022-07-05": 0,
       "2022-07-03": 131,
       "2022-07-01": 117,
       "2022-06-30": 138,
@@ -75,7 +76,7 @@
       "2022-04-30": 560,
       "2022-04-29": 134,
       "2022-04-27": 270,
-      "2022-04-26": 163
+      "2022-04-26": 48
     }
   }
 ]
