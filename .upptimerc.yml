@@ -23,7 +23,7 @@ status-website:
     - title: Status
       href: https://github.com/$OWNER/$REPO
     - title: connethics
-      href: http://connethics.fr/
+      href: http://connethics.com/
     - title: Contact me on Linkedin
       href: https://www.linkedin.com/in/fredericchoudat/
 
