@@ -3,15 +3,15 @@ repo: status-connethics
 
 sites:
   - name: connethics
-    url: http://connethics.com/
+    url: https://connethics.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status-connethics
-  logoUrl: https://www.choudat.fr/blog/wp-content/uploads/2018/03/cropped-A-32-3.png
-  favicon: https://www.choudat.fr/favicon.ico
+  logoUrl: https://connethics.com/_next/image?url=%2Flogo-connethics.png&w=384&q=75
+  favicon: https://connethics.com/_next/image?url=%2Ffavicon.ico&w=384&q=75
   metaTags:
    - name: "robots"
      content: "noindex"
@@ -23,7 +23,7 @@ status-website:
     - title: Status
       href: https://github.com/$OWNER/$REPO
     - title: connethics
-      href: http://connethics.com/
+      href: https://connethics.com/
     - title: Contact me on Linkedin
       href: https://www.linkedin.com/in/fredericchoudat/
 
